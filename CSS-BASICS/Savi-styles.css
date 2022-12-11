@@ -17,10 +17,10 @@ body {
     color:rgb(12, 187, 187)
   }
   p1 {
-    font-family: bold;
-    font-size: 100 px;
-    color: rgba(88, 214, 88, 0.664);
-  text-align: right
+   
+    font-size: 600 px;
+    color: rgba(31, 87, 192, 0.664);
+     text-align: center;
   }
   p2{
     background-image: url("bgdesert.jpg");
